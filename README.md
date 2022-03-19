@@ -1,6 +1,6 @@
-Hi, I am Anna,
+Hi I am Anna,
 
-I study at Codam Coding College Amsterdam since October 2020. I use this place to store the code of the projects I did at Codam.
+I study at Codam Coding College Amsterdam since October 2020. I use Github to store the code of my Codam projects.
 If you're interested, please take a look.
 
 👋🏻 Anna
