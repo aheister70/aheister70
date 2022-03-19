@@ -1,6 +1,6 @@
 Hi 👋🏻 I am Anna,
 
-I study at Codam Coding College Amsterdam since October 2020. I use Github to store the code of my study projects.
+I study at Codam Coding College Amsterdam since October 2020 after/during a career in UX design. I use Github to store the code of my study projects.
 Most of these projects are written in C/C++. 
 
 A few examples are:
